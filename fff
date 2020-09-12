@@ -1427,7 +1427,7 @@ main() {
     cd "${2:-$1}" &>/dev/null ||:
 
     [[ $1 == -v ]] && {
-        printf '%s\n' "fff 2.2"
+	printf '%s\n' "fff 2.2 (devicons)"
         exit
     }
 
