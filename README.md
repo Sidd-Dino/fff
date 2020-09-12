@@ -140,6 +140,7 @@ e: refresh current dir
 
 x: view file/dir attributes
 i: display image with w3m-img
+I: toggle icons on/off
 
 down:  scroll down
 up:    scroll up
