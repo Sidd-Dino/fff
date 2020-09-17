@@ -1,6 +1,4 @@
 # fff (*Fucking Fast File-Manager*)
-## (/◕ヮ◕)/ with devicons/nerd-font support 
-
 <a href="https://asciinema.org/a/qvNlrFrGB3xKZXb6GkremjZNp" target="_blank"><img src="https://asciinema.org/a/qvNlrFrGB3xKZXb6GkremjZNp.svg" alt="img" height="210px" align="right"/></a>
 
 A simple file manager written in `bash`.
@@ -20,7 +18,7 @@ A simple file manager written in `bash`.
 - Works as a **file picker** in `vim`/`neovim` ([**link**](https://github.com/dylanaraps/fff.vim))!
 - **Display images with w3m-img!**
 - Supports `$CDPATH`.
-- Devicons/Nerdfont icons
+- (/◕ヮ◕)/ Devicons/Nerdfont icons support
 - No batteries included
 ---
 <img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="340px" />
