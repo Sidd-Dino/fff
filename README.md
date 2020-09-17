@@ -23,8 +23,8 @@ A simple file manager written in `bash`.
 - Devicons/Nerdfont icons
 - No batteries included
 ---
-<img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="280px" />
-<img src="https://i.imgur.com/yHSDlYW.png" alt="img" height="280px" />
+<img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="340px" />
+<img src="https://i.imgur.com/yHSDlYW.png" alt="img" height="340px" />
 
 ---
 
