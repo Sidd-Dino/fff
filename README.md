@@ -5,9 +5,8 @@
 
 A simple file manager written in `bash`.
 
-<a href="https://travis-ci.org/dylanaraps/fff"><img src="https://travis-ci.org/dylanaraps/fff.svg?branch=master"></a>
-<a href="https://github.com/dylanaraps/fff/releases"><img src="https://img.shields.io/github/release/dylanaraps/fff.svg"></a>
-<a href="https://repology.org/metapackage/fff"><img src="https://repology.org/badge/tiny-repos/fff.svg" alt="Packaging status"></a>
+<a href="https://github.com/sidd-dino/fff-devicons"><img src="https://travis-ci.org/sidd-dino/fff-devicons.svg?branch=master"></a>
+<a href="https://github.com/sidd-dino/fff-devicons/releases"><img src="https://img.shields.io/github/release/sidd-dino/fff-devicons.svg"></a>
 
 - It's Fucking Fast 🚀
 - Minimal (*only requires **bash** and coreutils*)
@@ -21,7 +20,13 @@ A simple file manager written in `bash`.
 - Works as a **file picker** in `vim`/`neovim` ([**link**](https://github.com/dylanaraps/fff.vim))!
 - **Display images with w3m-img!**
 - Supports `$CDPATH`.
+- Devicons/Nerdfont icons
+- No batteries included
+---
+<img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="280px" align="" />
+<img src="https://i.imgur.com/yHSDlYW.png" alt="img" height="280px" align="right" />
 
+---
 
 ## Table of Contents
 
