@@ -20,9 +20,10 @@ A simple file manager written in `bash`.
 - Supports `$CDPATH`.
 - (/◕ヮ◕)/ Devicons/Nerdfont icons support
 - No batteries included
+
 ---
-<img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="340px" />
-<img src="https://i.imgur.com/yHSDlYW.png" alt="img" height="340px" />
+<img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="260px"/>
+<img src="https://i.imgur.com/yHSDlYW.png" alt="img" height="260px"/>
 
 ---
 
@@ -45,10 +46,11 @@ A simple file manager written in `bash`.
     * [Dealing with conflicting keybindings.](#dealing-with-conflicting-keybindings)
     * [How to figure out special keys.](#how-to-figure-out-special-keys)
 * [Using `fff` in vim/neovim as a file picker](#using-fff-in-vimneovim-as-a-file-picker)
+* [Icon Stuff](#icon-stuff)
 * [Why?](#why)
 
 <!-- vim-markdown-toc -->
-
+<br>
 
 ## Dependencies
 
@@ -143,7 +145,6 @@ e: refresh current dir
 
 x: view file/dir attributes
 i: display image with w3m-img
-I: toggle icons on/off
 
 down:  scroll down
 up:    scroll up
@@ -182,10 +183,6 @@ Ctrl+C: exit without 'cd'.
 # Show/Hide hidden files on open.
 # (Off by default)
 export FFF_HIDDEN=1
-
-# Show/Hide file icons on open
-# (Off by default)
-export FFF_FILE_ICON=1
 
 # Use LS_COLORS to color fff.
 # (On by default if available)
@@ -344,9 +341,6 @@ export FFF_KEY_EXECUTABLE="X"
 
 # Toggle hidden files.
 export FFF_KEY_HIDDEN="."
-
-# Toggle file icons
-export FFF_DISPLAY_ICON="I"
 ```
 
 ### Disabling keybindings.
@@ -408,6 +402,17 @@ read -srn 1 && key "$REPLY"
 
 See: [**`fff.vim`**](https://github.com/dylanaraps/fff.vim)
 
+## Icon stuff
+```
+I: toggle icons on/off
+
+# Show/Hide file icons on open
+# (Off by default)
+export FFF_FILE_ICON=1
+
+# Toggle file icons
+export FFF_DISPLAY_ICON="I"
+```
 
 ## Why?
 
