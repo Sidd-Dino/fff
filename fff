@@ -363,7 +363,7 @@ get_icon() {
             'efi' | 'elf'   |\
             'fish'| 'ksh'   |\
             'ps1' | 'rom'   |\
-            'zsh'           ) printf -- ''; return ;;
+            'zsh' | 'sh'    ) printf -- ''; return ;;
 
             'avi' | 'flv'   |\
             'm4v' | 'mkv'   |\
@@ -403,8 +403,7 @@ get_icon() {
             'so'            ) printf -- ''; return ;;
 
             'asm' | 'css'   |\
-            'less'| 's'     |\
-            'sh'            ) printf -- ''; return ;;
+            'less'| 's'     ) printf -- ''; return ;;
 
             'db'  | 'dump'  |\
             'img' | 'iso'   |\
