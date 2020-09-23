@@ -22,8 +22,9 @@ A simple file manager written in `bash`.
 - No batteries included
 
 ---
-<img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="300px"/>
-<img src="https://i.imgur.com/yHSDlYW.png" alt="img" height="300px"/>
+## Icon Preview
+<img src="https://i.imgur.com/FOmWdXc.png" alt="img" height="260px"/>
+<img src="https://i.imgur.com/yHSDlYW.png" alt="img" height="260px"/>
 
 ---
 
